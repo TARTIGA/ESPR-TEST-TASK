@@ -3,13 +3,15 @@
 
 ## Description
 
-Required tech to use
-● React
-● Redux
-● Styled-components
-● Immutable.js
+### Required tech to use
+
+* React
+* Redux
+* Styled-components
+* Immutable.js
 
 ### Brief
+
 Create a small application that will work as an admin dashboard for managing
 employees’ productivity. The app will allow admins to see employee work time and
 employee productivity.
